@@ -7,6 +7,8 @@ Designing a small prototype for self driving car.  Changing steeering angles wit
 
 # From above plot we can say that there are more datapoints with steering angle of 0. Probably the car is travellling more on a straight highway roads.
 
+![download](https://user-images.githubusercontent.com/64718250/142979400-98ea8f36-ad3c-4706-b94c-536377c5f063.png)
+# The train and test datasplits are almost similar
 
 
 ## using only cnn
