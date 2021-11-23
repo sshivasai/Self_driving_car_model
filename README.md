@@ -6,3 +6,18 @@ Designing a small prototype for self driving car.  Changing steeering angles wit
 
 
 # From above plot we can say that there are more datapoints with steering angle of 0. Probably the car is travellling more on a straight highway roads.
+
+
+
+## using only cnn
+
+image---> predict angle (end to end model )
+
+
+
+## can also use 
+
+image -------> cnn--------> vector representation----->LSTM----->OUTPUT
+LSTM - many to many relation
+
+
