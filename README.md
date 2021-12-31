@@ -24,4 +24,5 @@ image---> predict angle (end to end model )
 image -------> cnn--------> vector representation----->LSTM----->OUTPUT
 LSTM - many to many relation
 
-
+![20211231_220740](https://user-images.githubusercontent.com/64718250/147832715-c0a8920f-b959-4916-9c36-dece35ee6a61.jpg)
+![20211231_220750](https://user-images.githubusercontent.com/64718250/147832740-30407f9e-88c2-4ced-80f6-7b0b6dc3061c.jpg)
